@@ -79,3 +79,28 @@ thead {
 .column50 {
     width: 50%;
 }
+
+/* FOOTER */
+
+footer {
+    color: grey;
+    margin-bottom: 50px;
+}
+
+#footer-1 {
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: white;
+    height: 200px;
+    width: 300px;
+    padding: 5px;
+}
+
+#footer-2 {
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    color: white;
+    height: 200px;
+    width: 300px;
+    padding: 5px;
+}
