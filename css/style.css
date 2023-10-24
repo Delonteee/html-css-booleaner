@@ -1,8 +1,15 @@
+/* RESET */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* GENERALI */
+
+
+/* HEADER */
 
 #logo {
     height:60px;
@@ -14,4 +21,29 @@
     padding-top: 80px;
     padding-bottom: 10px;
     padding-left: 10px;
+}
+
+/* MAIN */
+main {
+    padding-left: 10px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#titolo {
+    font-size: 60px;
+}
+
+#autore {
+    color: grey;
+}
+
+.aqua-text {
+    color: aqua;
+}
+
+.highlighted-text {
+    background-color: yellow;
 }
