@@ -8,6 +8,13 @@
 
 /* GENERALI */
 
+.aqua-text {
+    color: aqua;
+}
+
+.highlighted-text {
+    background-color: yellow;
+}
 
 /* HEADER */
 
@@ -24,6 +31,7 @@
 }
 
 /* MAIN */
+
 main {
     padding-left: 10px;
 }
@@ -32,6 +40,13 @@ section {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+ul {
+    padding-left: 15px;
+}
+
+/* MAIN - HEADER */
+
 #titolo {
     font-size: 60px;
 }
@@ -40,14 +55,27 @@ section {
     color: grey;
 }
 
-.aqua-text {
-    color: aqua;
+/* TABELLA */
+
+table{
+    width: 100%;
+    border-collapse: collapse;
 }
 
-.highlighted-text {
-    background-color: yellow;
+thead {
+    color:white;
+    background-color:rgb(4, 147, 236);
+    text-align: left;
 }
 
-ul {
-    padding-left: 15px;
+.aqua-background {
+    background-color: aqua;
+}
+
+.column25 {
+    width: 25%;
+}
+
+.column50 {
+    width: 50%;
 }
