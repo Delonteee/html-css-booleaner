@@ -47,3 +47,7 @@ section {
 .highlighted-text {
     background-color: yellow;
 }
+
+ul {
+    padding-left: 15px;
+}
